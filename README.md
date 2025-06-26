@@ -17,8 +17,11 @@ The project also includes data visualization using **Seaborn** to explore relati
 
 ---
 ##  Files Included
-- `student_exam_score_prediction.ipynb` – Main notebook with all code, plots, and outputs
-- `requirements.txt` – All required Python libraries to run the notebook
+- `student_exam_score_prediction.ipynb` – Main notebook with all code, data processing, visualizations, and model predictions  
+- `student_scores.csv` – Dataset containing features like hours studied, attendance, and previous scores  
+- `requirements.txt` – All required Python libraries to run the notebook in Google Colab or locally  
+- `.gitignore` – Excludes unnecessary files like cache, system files, and checkpoints from version control  
+- `LICENSE` – MIT License to allow open-source usage with attribution
 
 ---
 ##  Features
